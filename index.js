@@ -10,3 +10,4 @@ console.log('done F2');
 
 console.log('F done');
 
+console.log('all done');
